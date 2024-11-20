@@ -5,6 +5,7 @@ Module: matrix_operations
 This module provides functions to perform various operations on 2D matrices.
 """
 
+
 def rotate_2d_matrix(matrix):
     """
     Rotates a given 2D matrix by 90 degrees clockwise in place.
